@@ -7,3 +7,8 @@ Philippine clean air act of 1999 (RA 8749). (2021. February 19). One Planet Netw
 What is Acid Rain? | US EPA. (2023, June 1). US EPA. https://www.epa.gov/acidrain/what-acid-rain
 
 Estroque, P. (n.d.). The republic act 8749. Water Environment Association of the Philippines. https://weap-phil.org/wp-content/uploads/2022/11/RA-8749-The-Philippine-Clean-Air-Act-of-1999-Engr.-Pablito-Estorque.pdf
+
+stuff to do:
+- style the thing
+- add option for fonts
+- italicize the stuff thats italicized
